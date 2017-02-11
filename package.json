@@ -1,0 +1,29 @@
+{
+  "name": "onead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysqi/OneAD.git"
+  },
+  "author": "ysqi",
+  "license": "ISC", 
+  "homepage": "https://github.com/ysqi/OneAD#readme",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "~0.1.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-exec": "^1.0.1",
+    "grunt-gh-pages": "0.9.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
